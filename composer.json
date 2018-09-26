@@ -1,5 +1,5 @@
 {
-    "name": "jadsalhani/world-countries-cities",
+    "name": "baklysystems/world-countries-cities",
     "description": "A package to delivery a wide seed array of Countries & their respective cities.",
     "keywords": ["laravel", "countries", "cities", "database", "seed"],
     "license": "MIT",
